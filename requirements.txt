@@ -14,7 +14,8 @@ psutil
 pycountry
 pymediainfo
 pymongo[srv]
-pyrogram==2.0.106
+git+https://github.com/KurimuzonAkuma/pyrogram.git
+#pyrogram==2.0.106
 #pyrogram==2.0.73
 python-decouple
 qbittorrent-api
